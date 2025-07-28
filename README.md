@@ -1,5 +1,3 @@
-# approach_explanation.md
-
 ## 🔍 Problem Overview
 
 The task is to extract the most relevant answers from a given set of PDFs based on natural language questions provided in a structured input JSON file. This is a classic **information retrieval** problem where the solution must parse unstructured documents, understand context semantically, and retrieve the best-matching answers efficiently and accurately.
